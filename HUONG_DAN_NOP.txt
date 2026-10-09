@@ -1,0 +1,5 @@
+1. Giải nén ZIP.
+2. Trên GitHub tạo repository public.
+3. Upload README.md, erd_don_dat_hang.dot và thư mục images (giữ đúng đường dẫn images/).
+4. Xem README có hiện ảnh hay không.
+5. Nộp URL repository trên CodeGym.
